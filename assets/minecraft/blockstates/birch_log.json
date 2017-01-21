@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "birch_log" },
+            { "model": "birch_log/0" },
+            { "model": "birch_log/1" },
+            { "model": "birch_log/2" },	{ "model": "birch_log/3" }        ]
+    }
+}
